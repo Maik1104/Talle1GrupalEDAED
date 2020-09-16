@@ -1,6 +1,6 @@
 ---
 title: "Taller 1"
-  author: "Michael Zapata, Marlon Valencia, Cristian ROjas"
+  author: "Michael Zapata, Marlon Valencia, Cristian Rojas"
 date: "16/9/2020"
 output: html_document
 ---
